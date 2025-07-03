@@ -1,73 +1,76 @@
-# Welcome to your Lovable project
+# 👋 Hi, I'm Sai Sritej Palacharla
 
-## Project info
+🎓 Computer Science Graduate | 💻 Full Stack Developer | ☁️ DevOps & Cloud Enthusiast | 🧠 AI Integrator
 
-**URL**: https://lovable.dev/projects/d3394662-e547-4546-a21e-f8f8935a7cd0
+---
 
-## How can I edit this code?
+## 🚀 About Me
 
-There are several ways of editing your application.
+I'm a passionate software engineer who loves building end-to-end systems — from sleek frontends to scalable backends to AI-powered tools in the cloud.
 
-**Use Lovable**
+- 🔭 Currently working on **AI-integrated full stack applications** and backend systems.
+- 🌱 Strengthening skills in **large-scale system design**, **DevOps pipelines**, and **cloud deployment**.
+- 🤝 Open to collaborating on innovative, impactful projects — especially in **AI**, **DevOps**, or **open-source**.
+- 💬 Ask me about full-stack development, system architecture, or breaking into tech!
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d3394662-e547-4546-a21e-f8f8935a7cd0) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tech Stack
 
-**Use your preferred IDE**
+**Languages**  
+`Java` `Python` `JavaScript` `TypeScript` `C++` `SQL` `Bash`
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Frameworks / Libraries**  
+`Spring Boot` `React.js` `Node.js` `Express.js` `Tailwind CSS` `Bootstrap`
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Databases**  
+`MySQL` `PostgreSQL` `MongoDB` `Firebase` `SQLite`
 
-Follow these steps:
+**DevOps / Cloud**  
+`AWS (EC2, S3, Lambda)` `Docker` `Kubernetes` `GitHub Actions` `CI/CD` `Jenkins`
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+**Tools & Testing**  
+`Git` `VS Code` `IntelliJ` `Postman` `Selenium` `JUnit`
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📂 Featured Projects
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 🔹 [AlgoPrepX](https://github.com/SAISRITEJ-PALACHARLA/AlgoPrepX)
+> 📘 Learn Data Structures & Algorithms interactively  
+> 🧠 Features: quizzes, pseudocode rendering, and role-based access  
+> 💡 Stack: React, Node.js, MongoDB, Bootstrap
 
-**Edit a file directly in GitHub**
+### 🔹 [GestureMoveX](https://github.com/SAISRITEJ-PALACHARLA/GestureMoveX)
+> 🎮 Real-time gesture and eye-tracking UI control system  
+> 🧪 Built with OpenCV, MediaPipe, and Docker  
+> 🔁 Deployed with CI/CD via GitHub Actions
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 📚 Publications
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- 🫀 **[Heart Disease Detection using Random Forest + Naive Bayes](https://www.neuroquantology.com/open-access/DETECTION+OF+HEART+DISEASE+USING+HYBRID+RANDOM+FOREST+AND+GAUSSIAN+NAIVE%25E2%2580%2599S+BAYESIAN+TECHNIQUES_13968/)**  
+  Research in healthcare AI classification models.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📈 GitHub Stats
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAISRITEJ-PALACHARLA&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAISRITEJ-PALACHARLA&theme=dark&hide_border=false" />
+</p>
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/d3394662-e547-4546-a21e-f8f8935a7cd0) and click on Share -> Publish.
+## 🌐 Connect With Me
 
-## Can I connect a custom domain to my Lovable project?
+- 🔗 [LinkedIn](https://linkedin.com/in/saisritej-palacharla)
+- 💼 [Portfolio Website](https://saisritej-palacharla.github.io/)
+- 📧 [Email](mailto:saisritejpalacharlauml@gmail.com)
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+*Let's build something great together!*
