@@ -74,7 +74,7 @@ or contributing to open-source projects!
           {/* Stats Grid */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-12">
             <div className="glass-morphism rounded-xl p-6 text-center neon-glow">
-              <div className="text-3xl font-bold text-portfolio-cyan mb-2">3.92</div>
+              <div className="text-3xl font-bold text-portfolio-cyan mb-2">3.6</div>
               <div className="text-gray-400 text-sm">GPA</div>
             </div>
             <div className="glass-morphism rounded-xl p-6 text-center neon-glow">
